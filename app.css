@@ -1,0 +1,21 @@
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: rgb(52, 165, 42);
+    background-color: rgb(69,69,144);
+}
+
+button {
+    color: dodgerblue;
+    background-color: dimgray;
+}
+
+P {
+    color: lightsalmon;
+    background-color: dimgray;
+}
+H3 {
+    color: #AACA33;
+}

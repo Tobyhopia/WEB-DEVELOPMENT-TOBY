@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    letter-spacing: 5px;
+    font-style: oblique;
+    text-decoration: firebrick underline wavy;
+}
+
+h2 {
+    text-decoration: underline;
+    letter-spacing: 8px;
+}
+
+h1,
+h2 {
+    color: darkblue;
+}
+
+p {
+    text-align: left;
+    line-height: 140%;
+    font-size: 21px;
+    font-family: geneva, tahoma;
+}
+
+#BUTTON1 {
+    color: limegreen;
+    background-color: coral;
+}
+
+#BUTTON2 {
+    color: aliceblue;
+    background-color: darkred;
+}
+
+body {
+
+    background-color: #DFD6A7;
+}
+
+.pogs {
+    background-color: dodgerblue;
+}
+
+input+button {
+    font-size: 40px;
+}
+
+a[href*="GOOGLE"]{
+    color: darkgoldenrod;
+}
+
+button:hover {
+    background-color: gray;
+    color: chartreuse;
+}
+button:active {
+    color: deepskyblue;
+}
+
+
+
