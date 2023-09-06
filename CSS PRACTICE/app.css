@@ -57,5 +57,7 @@ button:active {
     color: deepskyblue;
 }
 
-
+h2::first-letter {
+    font-size: 30px;
+}
 
