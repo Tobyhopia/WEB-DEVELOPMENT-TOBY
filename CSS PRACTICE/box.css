@@ -1,0 +1,19 @@
+h1 {
+    width: 200px;
+    background-color: chocolate;
+    text-align: center;  
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#one {
+
+    background-color: darkgoldenrod ;
+    border-width: 10px;
+    border-style: double;
+    border-color: aqua;
+    box-sizing: border-box;
+}
