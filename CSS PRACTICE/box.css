@@ -1,19 +1,38 @@
 h1 {
     width: 200px;
     background-color: chocolate;
-    text-align: center;  
+    text-align: center;
+    border-style: inset;
+    border-width: 11px;
+    border-color: darksalmon;
 }
 
 div {
     width: 200px;
-    height: 200px;
+    height: 220px;
 }
 
 #one {
 
-    background-color: darkgoldenrod ;
+    background-color: darkgoldenrod;
     border-width: 10px;
-    border-style: double;
+    border-style: dashed solid;
     border-color: aqua;
     box-sizing: border-box;
+    border-bottom-color: brown;
+}
+
+#two {
+    background-color: darkkhaki;
+    box-sizing: border-box;
+    border-style: dotted;
+    border-color: darkgreen;
+    border-width: 10px;
+}
+
+#three {
+    background-color: #ff70a6;
+    border: 6px solid aqua;
+    box-sizing: border-box;
+    border-radius: 10%;
 }
