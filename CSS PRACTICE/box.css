@@ -2,14 +2,19 @@ h1 {
     width: 200px;
     background-color: chocolate;
     text-align: center;
-    border-style: inset;
+    border-style: solid;
     border-width: 11px;
     border-color: darksalmon;
+    padding: 30px;
+    display: inline-block;
 }
 
 div {
     width: 200px;
-    height: 220px;
+    height: 200px;
+    background-color: chartreuse;
+    border: 5px solid black;
+    display: inline-block;
 }
 
 #one {
@@ -20,6 +25,7 @@ div {
     border-color: aqua;
     box-sizing: border-box;
     border-bottom-color: brown;
+
 }
 
 #two {
@@ -28,6 +34,8 @@ div {
     border-style: dotted;
     border-color: darkgreen;
     border-width: 10px;
+    margin: 200px;
+    display: inline-block;
 }
 
 #three {
@@ -36,3 +44,9 @@ div {
     box-sizing: border-box;
     border-radius: 10%;
 }
+
+#button1 {
+    padding: 10px 50px 23px;
+}
+
+
