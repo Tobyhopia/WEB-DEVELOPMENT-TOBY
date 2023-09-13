@@ -1,0 +1,49 @@
+h1 {}
+
+section {
+    background-color: coral;
+    width: 800px;
+    height: 800px;
+}
+
+div {
+    background-color: darkslategrey;
+    width: 50%;
+    height: 50%;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-left: 1em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+article {
+    font-size: 20px;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+button {
+    margin-left: 2em;
+    font-size: 1em;
+    background-color: aquamarine;
+    border-radius: 1em;
+    border-color: brown;
+}
+ul {
+    font-size: 1em;
+}
+
+#rems h2 {
+    font-size: 5rem;
+}
+
+#rems h3 {
+    font-size: 4rem;
+}
