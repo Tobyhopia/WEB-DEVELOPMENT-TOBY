@@ -1,0 +1,31 @@
+html {
+    background-color: darkolivegreen;
+}
+
+section {
+    width: 80%;
+    height: 500px;
+    background-color: brown;
+    margin: auto;
+    background-image: url(https://images.unsplash.com/photo-1502781044701-e23e5cede0a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90b);
+    background-size: cover;
+    border: 5px solid;
+}
+
+h1 {
+    font-size: 100px;
+    color: aliceblue;
+}
+
+body {
+    font-family: 'Rowdies', cursive;
+    font-weight: 200;
+}
+
+p {
+    color: azure;
+    font-weight: lighter;
+    font-size: 1.3em;
+    margin: 20%;
+    margin-top: 1em;
+}
