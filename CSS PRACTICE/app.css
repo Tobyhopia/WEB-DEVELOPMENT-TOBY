@@ -1,73 +1,21 @@
 h1 {
-    text-align: center;
-    letter-spacing: 5px;
-    font-style: oblique;
-    text-decoration: firebrick underline wavy;
+    color: blueviolet;
 }
 
 h2 {
-    text-decoration: underline;
-    letter-spacing: 8px;
+    color: rgb(52, 165, 42);
+    background-color: rgb(69,69,144);
 }
 
-h1,
-h2 {
-    color: darkblue;
+button {
+    color: dodgerblue;
+    background-color: dimgray;
 }
 
-p {
-    text-align: left;
-    line-height: 140%;
-    font-size: 21px;
-    font-family: geneva, tahoma;
+P {
+    color: lightsalmon;
+    background-color: dimgray;
 }
-
-#BUTTON1 {
-    color: limegreen;
-    background-color: coral;
+H3 {
+    color: #AACA33;
 }
-
-#BUTTON2 {
-    color: aliceblue;
-    background-color: darkred;
-}
-
-body {
-
-    background-color: #DFD6A7;
-}
-
-.pogs {
-    background-color: dodgerblue;
-}
-
-input+button {
-    font-size: 40px;
-}
-
-a[href*="GOOGLE"]{
-    color: darkgoldenrod;
-}
-
-button:hover {
-    background-color: gray;
-    color: chartreuse;
-}
-button:active {
-    color: deepskyblue;
-}
-
-h2::first-letter {
-    font-size: 40px;
-    color: red;
-}
-
-p::first-line {
-    color: darkslateblue;
-}
-
-button:hover {
-    background-color: deeppink;
-}
-
-    

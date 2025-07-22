@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Input Example</title>
+</head>
+<body>
+
+  <!-- This is an input box -->
+  <input type="text" placeholder="Type something here">
+
+  <!-- This is a button that will trigger the JavaScript -->
+  <button onclick="showInput()">Show What I Typed</button>
+
+  <script>
+    // This line finds the input box
+    let input = document.querySelector('input');
+
+    // This function runs when the button is clicked
+    function showInput() {
+      // This shows a popup with what you typed
+      alert(input.value);
+    }
+  </script>
+
+</body>
+</html>
